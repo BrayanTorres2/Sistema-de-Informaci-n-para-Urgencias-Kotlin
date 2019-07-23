@@ -1,4 +1,4 @@
-# Sistema-de-Informaci-n-para-Urgencias-Kotlin
+# Sistema-de-Informacion-para-Urgencias-Kotlin
 # El Modelo o Mundo
 Esta parte de la aplicación contará con las siguientes clases:
 Comenzar con la Ubicación. Esta clases comparable y usaremos primero la calle y luego la carrera como criterio de comparación. Escriba métodos constructores, analizadores y modificadores para esta clase.
